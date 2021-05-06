@@ -1,0 +1,51 @@
+(System Information Report)
+
+--------------------------------------------------------------------------------------------------------------------------
+Installation Database
+
+Step 1 - Install Xamp (you can google and download installer)
+Step 2 - Open browsers and go to http://localhost/phpmyadmin/
+Step 3 - Click "New" and fill in "Database SQL Name" from the SQL Database Folder then click create
+Step 4 - Next click choose file and choose SQL file from the SQL Database then click "GO"
+=======================================================================================================
+Installation Websystem
+
+Step 1 - open C:\xampp\htdocs\
+Step 2 - Copy Website System Folder to C:\xampp\htdocs\
+Step 3 - open browsers and go to address localhost/WebsiteSystemName/root/index.php
+=======================================================================================================
+---------------------------------------------------------------------------------------------------------------------------
+
+========================================================================================================
+(System Description)
+
+The Web system is about online barrowed book that the user will registre and choose the book through
+library website, after that the user must take the book anytime at the library not more than 7 days. 
+When the user take the book at the library, the librarian will asked for ID to identifies which book
+is been barrowed through online. The system also will charge for late return book as punishment for 50c 
+perdays when book is returning by the barrower.The system works 100% with accurate PHP coding and 
+database SQL server.
+========================================================================================================
+(System Suitability) 
+
+Suitable for 
+- Used only for library management system
+- Web system must be maintain by librarian
+- Simple user with database interface
+- For school project with web system development
+- Available for web hosting with SQL Database Server
+========================================================================================================
+(System Requirement)
+
+Support with
+
+- Any OS from xp to window 10
+- Support any browsers for window
+- Available with all Computer that support OS
+- Internet Connection
+========================================================================================================
+(Testing Connection)
+
+p to p
+http://serveripaddress/filelocation/index.php
+========================================================================================================
